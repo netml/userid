@@ -38,7 +38,7 @@ Network packet headers contain critical information that can be analyzed to unde
 To use this repository, clone the repo and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/MayankDemblaUcm/humanbehaviour.git
+git clone https://github.com/netml/userid.git
 cd humanbehaviour
 pip install -r requirements.txt
 ```
