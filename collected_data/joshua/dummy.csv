@@ -1,0 +1,1 @@
+source_ip,destination_ip,source_port,destination_port,protocol,packet_size,inter_arrival_time,payload_size,flow_duration,total_packets,total_bytes,flow_direction,session_duration,session_count,mean_packet_size,variance_packet_size,entropy,usage_frequency,temporal_patterns,country,region,city
